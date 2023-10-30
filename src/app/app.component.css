@@ -1,0 +1,98 @@
+body{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+background-color: whitesmoke;
+margin: 0;
+padding: 0;
+}
+
+
+.topside{
+font-family:arial;
+display:flex;
+justify-content:space-around;
+align-items:center;
+background-color:#2874f0;
+color:white;
+}
+
+input{
+height:25px;
+width:300px;
+border:none;
+padding-left: 5px;
+padding:5px;
+margin-left:10px;
+}
+
+button{
+margin-left:20px;
+background-color:white;
+border:none;
+color:#2874f0;
+height:30px;
+width:124px;
+}
+
+.options{
+margin-top: 20px;
+display:flex;
+justify-content:space-around;
+padding: 0% 10%;
+align-items:center;
+height: 100px;
+}
+
+#Becomeaseller{
+display: flex;
+justify-content: center;
+gap: 20px;
+align-items: center;
+}
+
+.lastLeters{
+color:grey;
+font-size:13px;
+margin-left:20px;
+}
+
+#hello{
+color:grey;
+margin: 20px;
+font-family:arial;
+
+}
+
+#passage2{
+font-family:arial;
+
+}
+.margin{
+gap:10px;
+}
+
+.options:hover{
+color:#2874f0;
+}
+
+#productsInSecoundRow{
+    border: none;
+}
+
+.bottom-text{
+    margin: 0px;
+}
+
+.productprice{
+    color: #388e3c;
+}
+
+.secoundrowimagesname{
+    color: #212121;
+}
+.qwqwq{
+    display: flex;
+    gap: 950px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 1px rgb(90, 90, 90);
+}
